@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Loading from '../../components/Loading/Loading';
 import Post from '../../components/Post/Post';
 import {fetchMainPosts} from '../../utils/api'
 
@@ -15,7 +16,7 @@ const PostsView = (props) => {
 
     return ( 
         <div>
-            {loading ? "Loading..." : articles.map(article => <Post 
+            {loading ? <Loading />: articles.map(article => <Post 
                                                                 key={article.id} 
                                                                 post={article} />)}
         </div>

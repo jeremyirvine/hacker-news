@@ -1,3 +1,9 @@
-.PostView {
-    
+.PostView .title {
+    color: rgb(0, 102, 255);
+    margin-bottom: -17px;
+    cursor: pointer;
+}
+
+.PostView .title:hover {
+    text-decoration: underline;
 }

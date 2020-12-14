@@ -4,6 +4,7 @@ import Logo from './components/Logo/Logo';
 import Nav from './components/Nav';
 import PostsView from './views/PostsView/PostsView';
 import PostView from './views/PostView/PostView';
+import UserView from './views/UserView/UserView';
 
 const App = () => {
 
@@ -23,13 +24,19 @@ const App = () => {
             path='/'
             render={() => <PostsView type='top' />}
           />
+
           <Route
             path='/new'
             render={() => <PostsView type='new' />}
           />
+
           <Route 
             path='/post/:id'
             render={ props => <PostView { ...props } /> } /> 
+
+          <Route
+            path='/user/:login'
+            render={ props => <UserView { ...props } /> } />
 
 
           {/* <Route path='/post' component={Post} /> */}
