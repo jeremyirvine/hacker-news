@@ -1,0 +1,14 @@
+.Logo p {
+    font-weight: bold;
+}
+
+.Logo {
+    cursor: pointer;
+}
+
+.Logo p,
+.Logo small {
+    display: inline;
+    position: relative;
+    top:-3px;
+}
