@@ -2,7 +2,7 @@
   "name": "hacker-news-clone-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jeremyirvine.github.io/hacker-news",
+  "homepage": "https://jeremyirvine.github.io/hacker-news/",
   "dependencies": {
     "axios": "^0.20.0",
     "react": "^16.13.1",

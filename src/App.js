@@ -37,6 +37,8 @@ const App = () => {
           <Route
             path='/user/:login'
             render={ props => <UserView { ...props } /> } />
+            
+          {/* <Route path='/hacker-news' render={} /> */}
 
 
           {/* <Route path='/post' component={Post} /> */}
