@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jeremyirvine.github.io/hacker-news/static/css/main.37f0afbc.chunk.css",
+    "main.js": "/jeremyirvine.github.io/hacker-news/static/js/main.0855a445.chunk.js",
+    "main.js.map": "/jeremyirvine.github.io/hacker-news/static/js/main.0855a445.chunk.js.map",
+    "runtime-main.js": "/jeremyirvine.github.io/hacker-news/static/js/runtime-main.06ac9f80.js",
+    "runtime-main.js.map": "/jeremyirvine.github.io/hacker-news/static/js/runtime-main.06ac9f80.js.map",
+    "static/js/2.e5fb3032.chunk.js": "/jeremyirvine.github.io/hacker-news/static/js/2.e5fb3032.chunk.js",
+    "static/js/2.e5fb3032.chunk.js.map": "/jeremyirvine.github.io/hacker-news/static/js/2.e5fb3032.chunk.js.map",
+    "index.html": "/jeremyirvine.github.io/hacker-news/index.html",
+    "precache-manifest.80f45c175561b615be2269c55a856806.js": "/jeremyirvine.github.io/hacker-news/precache-manifest.80f45c175561b615be2269c55a856806.js",
+    "service-worker.js": "/jeremyirvine.github.io/hacker-news/service-worker.js",
+    "static/css/main.37f0afbc.chunk.css.map": "/jeremyirvine.github.io/hacker-news/static/css/main.37f0afbc.chunk.css.map",
+    "static/js/2.e5fb3032.chunk.js.LICENSE.txt": "/jeremyirvine.github.io/hacker-news/static/js/2.e5fb3032.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ac9f80.js",
+    "static/js/2.e5fb3032.chunk.js",
+    "static/css/main.37f0afbc.chunk.css",
+    "static/js/main.0855a445.chunk.js"
+  ]
+}
