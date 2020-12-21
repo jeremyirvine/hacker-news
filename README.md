@@ -4,4 +4,4 @@
 
 This is a (soft) "Hacker News" clone.
 
-You can view the final project at [Hacker News clone](https://jeremyirvine.github.io/hacker-news/)
+You can view the project at [Hacker News clone](https://jeremyirvine.github.io/hacker-news/)
